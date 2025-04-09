@@ -125,7 +125,7 @@ python scripts/download_data.py
 conda env create -f environment.yml
 
 # 2. Activer l'environnement
-conda activate co2-vehicules
+conda activate co2-vehicles-2025
 
 # 3. Vérifier l'installation
 python -c "import pandas; print(pandas.__version__)"
